@@ -6,7 +6,7 @@ import time
 from discord.ext import commands
 role = ['Mafia', 'Jester', 'Town', 'Investigator', 'Doctor', 'Town']
 random.shuffle(role)
-token = 'NDc3MTQ3MDMyODM5MjU4MTIz.Dk35lQ.aoX7HaD0bGKLifNQp7n82ZKbXoM'
+token = 'TOKEN'
 client = commands.Bot(command_prefix = '~')
 
 player1 = ''
